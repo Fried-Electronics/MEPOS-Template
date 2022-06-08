@@ -648,7 +648,7 @@
     )
   )
 
-  (footprint "MEPOS:Logo" (layer "F.Cu")
+  (footprint "MEPOS:Logo" locked (layer "F.Cu")
     (tedit 0) (tstamp 3ebccdfb-3bda-49a6-b05b-fbd021809fb3)
     (at 188.1 68.885)
     (attr smd)
