@@ -1828,7 +1828,7 @@
     (property "Value" "Scope GND" (id 1) (at 34.29 166.1668 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "MEP_TEMPLATE:Scope_GND" (id 2) (at 31.75 165.1 0)
+    (property "Footprint" "MEPOS:Scope_GND" (id 2) (at 31.75 165.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 31.75 165.1 0)

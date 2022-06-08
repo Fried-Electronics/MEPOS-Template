@@ -41,7 +41,7 @@
       (reference "#PWR0201") (unit 1) (value "GND") (footprint "")
     )
     (path "/00000000-0000-0000-0000-000061aa1a42/00000000-0000-0000-0000-000061abb3bc"
-      (reference "GND201") (unit 1) (value "Scope GND") (footprint "MEP_TEMPLATE:Scope_GND")
+      (reference "GND201") (unit 1) (value "Scope GND") (footprint "MEPOS:Scope_GND")
     )
     (path "/00000000-0000-0000-0000-000061aa1a42/00000000-0000-0000-0000-000061abb3dc"
       (reference "H201") (unit 1) (value "M3 Mount") (footprint "MountingHole:MountingHole_3.2mm_M3_Pad")
